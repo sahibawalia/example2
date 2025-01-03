@@ -1,1 +1,1 @@
-this is second sample fine for qa branch
+Hi, this is second sample fine for qa branch
